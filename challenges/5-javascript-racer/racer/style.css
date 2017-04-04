@@ -1,0 +1,28 @@
+ .track{
+	width: 100%;
+	height: 100px;
+}
+
+.player1{
+	display: flex;
+	background-color: crimson;
+}
+
+.player2{
+	display: flex;
+	background-color: deepskyblue;
+}
+
+#restart_button{
+	background-color: purple;
+}
+
+.span{
+	flex: auto;
+	height: 100%;
+	border: 1px solid red;
+}
+
+span.active{
+	background-color: red;
+}

@@ -4,8 +4,10 @@
 
 // __________________________________________
 // Escribe tu codigo aca.
-
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = false;
+var members = ["Juan","Diana", "Roberto", "German"];
 
 
 
@@ -13,8 +15,8 @@
 
 
 // __________________________________________
-// Refleccion: Escribe una refleccion aca sobre lo que aprendiste.
-//
+// Reflexión: Escribe una reflexion aca sobre lo que aprendiste.
+// las variables son cheveres :-3 
 //
 //
 //
